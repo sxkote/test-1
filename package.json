@@ -1,0 +1,23 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "test-1 project to define skils",
+  "type": "module",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Ivan Litskevich",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jest": "^27.2.1",
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
